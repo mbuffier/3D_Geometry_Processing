@@ -1,4 +1,4 @@
-# 3D geometry processing algorithm
+# 3D geometry processing algorithms
 
 ## RANSAC 
 
